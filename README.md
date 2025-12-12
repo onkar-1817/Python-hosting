@@ -1,2 +1,2 @@
-# Python-hosting
-Python web hosting Dockerfile
+Python  App On EC2
+Simple Python App Hosting.
